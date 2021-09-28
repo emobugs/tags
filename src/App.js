@@ -10,7 +10,7 @@ function App() {
           <p className="subtitle">by Boom.dev</p>
         </div>
       </section>
-      <Tags  children={['boomdotdev', 'task', 'tags', 'react', 'slabo', 'vinkso', 'i', 'svinsko']}/>
+      <Tags  tags={['boomdotdev', 'taskdsdff', 'tags', 'react', 'slabo', 'vinkso', 'i', 'svinsko']}/>
     </div>
   );
 }
